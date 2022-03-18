@@ -1,2 +1,5 @@
 # GDGMTRRT
-Game turret dengan Godot Engine
+
+GDGMTRRT adalah game turret dengan Godot Engine.
+
+Untuk mendownloadnya, kunjungi bagian Releases.
