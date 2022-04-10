@@ -10,11 +10,11 @@ Untuk mendownloadnya, kunjungi bagian Releases.
 
 ## Screenshot
 
-![ScreenShot](https://github.com/shbfrlnc/GDGMTRRT/blob/main/assets/GDGMTRRT1.png)
+![ScreenShot](assets/GDGMTRRT1.png?raw=true)
 
-![ScreenShot](https://github.com/shbfrlnc/GDGMTRRT/blob/main/assets/GDGMTRRT2.png)
+![ScreenShot](assets/GDGMTRRT2.png?raw=true)
 
-![ScreenShot](https://github.com/shbfrlnc/GDGMTRRT/blob/main/assets/GDGMTRRT3.png)
+![ScreenShot](assets/GDGMTRRT3.png?raw=true)
 
 ## Info Tambahan
 
