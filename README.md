@@ -4,6 +4,12 @@
 
 Download the project on release page.
 
+## More Info
+
+Support me, my youtube channel, etc:
+
+- https://shbfrlnc.github.io
+
 ## Intro
 
 GDGMTRRT is a Godot Engine Turret Game
@@ -19,9 +25,3 @@ GDGMTRRT is a Godot Engine Turret Game
 ![ScreenShot](assets/GDGMTRRT2.png?raw=true)
 
 ![ScreenShot](assets/GDGMTRRT3.png?raw=true)
-
-## Info Tambahan
-
-Traktir Saya, Channel YouTube Saya, dan lain-lain:
-
-- https://sociabuzz.com/lsfkrshb
