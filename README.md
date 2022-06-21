@@ -14,10 +14,6 @@ WEBSITE:
 
 GDGMTRRT adalah Godot Engine Turret Game
 
-## Screencast
-
-- https://www.youtube.com/playlist?list=PLOg7o5N1MDWSgDBqbthh35OvGcVObHOEE
-
 ## Screenshot
 
 ![ScreenShot](assets/GDGMTRRT1.png?raw=true)
