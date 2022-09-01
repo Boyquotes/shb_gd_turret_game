@@ -1,12 +1,8 @@
-# GDGMTRRT
+# GDGMTRRT - Godot Engine Turret Game
 
-## Download
+## Software Apakah Ini?
 
-Untuk mendownloadnya, kunjungi halaman Releases.
-
-## Intro
-
-GDGMTRRT adalah Godot Engine Turret Game
+GDGMTRRT adalah Godot Engine Turret Game.
 
 ## Screenshot
 
