@@ -1,8 +1,13 @@
+# script ini mengatur tampilan HUD.
+
+# extend dari Control.
 extends Control
 
+# health dan score.
 export var hvalue = 10
 export var svalue = 0
 
+# referensi ke node health dan score.
 onready var health_value = get_node("HealthValue")
 onready var score_value = get_node("ScoreValue")
 

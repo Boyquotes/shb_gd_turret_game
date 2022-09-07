@@ -62,17 +62,14 @@ exp_sound = ExtResource( 6 )
 
 [node name="Base" type="MeshInstance" parent="."]
 mesh = SubResource( 1 )
-material/0 = null
 
 [node name="Body" type="MeshInstance" parent="Base"]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.55058, 0 )
 mesh = SubResource( 2 )
-material/0 = null
 
 [node name="Muzzle" type="MeshInstance" parent="Base/Body"]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.0257958, -0.533019 )
 mesh = SubResource( 3 )
-material/0 = null
 
 [node name="Spawn" type="Spatial" parent="Base/Body/Muzzle"]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -1.81839 )
