@@ -6,11 +6,11 @@ GDGMTRRT adalah Godot Engine Turret Game.
 
 ## Screenshot
 
-![ScreenShot](.readme-assets/GDGMTRRT1.png?raw=true)
+![ScreenShot](.readme-assets/GDGMTRRT-1.png?raw=true)
 
-![ScreenShot](.readme-assets/GDGMTRRT2.png?raw=true)
+![ScreenShot](.readme-assets/GDGMTRRT-2.png?raw=true)
 
-![ScreenShot](.readme-assets/GDGMTRRT3.png?raw=true)
+![ScreenShot](.readme-assets/GDGMTRRT-3.png?raw=true)
 
 ## Cara Mencoba Kode Ini
 
