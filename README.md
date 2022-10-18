@@ -1,16 +1,16 @@
-# GDGMTRRT - Godot Engine Turret Game
+# SHBGDTurretGame - Godot Engine Turret Game
 
 ## Software Apakah Ini?
 
-GDGMTRRT adalah Godot Engine Turret Game.
+SHBGDTurretGame adalah Godot Engine Turret Game.
 
 ## Screenshot
 
-![ScreenShot](.readme-assets/GDGMTRRT-1.png?raw=true)
+![ScreenShot](.readme-assets/SHBGDTurretGame-1.png?raw=true)
 
-![ScreenShot](.readme-assets/GDGMTRRT-2.png?raw=true)
+![ScreenShot](.readme-assets/SHBGDTurretGame-2.png?raw=true)
 
-![ScreenShot](.readme-assets/GDGMTRRT-3.png?raw=true)
+![ScreenShot](.readme-assets/SHBGDTurretGame-3.png?raw=true)
 
 ## Cara Mencoba Kode Ini
 
