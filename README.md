@@ -6,8 +6,6 @@ SHBGDTurretGame adalah Godot Engine Turret Game.
 
 ## Screenshot
 
-![ScreenShot](.readme-assets/SHBGDTurretGame-1.png?raw=true)
-
 ![ScreenShot](.readme-assets/SHBGDTurretGame-2.png?raw=true)
 
 ![ScreenShot](.readme-assets/SHBGDTurretGame-3.png?raw=true)
