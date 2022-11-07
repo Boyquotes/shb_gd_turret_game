@@ -1,6 +1,6 @@
 # SHBGDTurretGame - Godot Engine Turret Game
 
-## Software Apakah Ini?
+## Software Apakah Ini? 
 
 SHBGDTurretGame adalah Godot Engine Turret Game.
 
