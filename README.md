@@ -1,5 +1,9 @@
 # SHBGDTurretGame - Godot Engine Turret Game
 
+## Traktir Saya
+
+Berikan saya uang gratis di https://bit.ly/shb-traktir
+
 ## Software Apakah Ini? 
 
 SHBGDTurretGame adalah Godot Engine Turret Game.
