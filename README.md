@@ -1,12 +1,5 @@
 # SHBGDTurretGame - Godot Engine Turret Game
 
-## Link-Link Penting
-
-- SOFTWARE GRATIS: https://shbfrlnc.github.io/
-- BLOG: https://shbfrlnc.github.io/tags/blog/
-- PENGUMUMAN: https://shbfrlnc.github.io/tags/pengumuman/
-- DUKUNG: https://shbfrlnc.github.io/dukung.html
-
 ## Software Apakah Ini? 
 
 SHBGDTurretGame adalah Godot Engine Turret Game.
