@@ -2,7 +2,7 @@
 
 ## Software Apakah Ini? 
 
-SHBGDTurretGame adalah Godot Engine Turret Game.
+SHBGDTurretGame adalah Godot Engine Turret Game...
 
 ## Screenshot
 
