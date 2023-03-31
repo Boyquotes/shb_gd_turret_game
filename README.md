@@ -1,4 +1,4 @@
-# SHBGDTurretGame - Godot Engine Turret Game
+# shb_gd_turret_game - Godot Engine Turret Game
 
 ## Software Apakah Ini? 
 
