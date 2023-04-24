@@ -2,25 +2,7 @@
 
 ## Software Apakah Ini? 
 
-SHBGDTurretGame adalah Godot Engine Turret Game...
-
-## Screenshot
-
-![ScreenShot](.readme-assets/SHBGDTurretGame-2.png?raw=true)
-
-![ScreenShot](.readme-assets/SHBGDTurretGame-3.png?raw=true)
-
-## Cara Mencoba Kode Ini
-
-Untuk mencoba kode ini, Anda memerlukan Godot Engine v3.5.
-
-Download dan install software tersebut.
-
-Kemudian buka project ini dan jalankan.
-
-## Pendahuluan
-
-Kali ini, saya akan memberikan contoh game turret dengan Godot Engine.
+shb_gd_turret_game adalah Godot Engine Turret Game...
 
 Game ini adalah game sederhana yang tujuannya menembaki robot berkaki empat bernama Land Drone sebanyak mungkin.
 
@@ -32,6 +14,16 @@ Untuk membuat karakter utamanya, yakni turret, turret di-extend dari KinematicBo
 
 Karakter musuhnya, Land Drone, juga di-extend dari KinematicBody.
 
-## Struktur Project
+## Cara Mencoba Kode Ini
 
-Untuk melihat struktur project game ini, silakan buka project ini di Godot Engine.
+Untuk mencoba kode ini, Anda memerlukan Godot Engine.
+
+Download dan install software tersebut.
+
+Kemudian buka project ini dan jalankan.
+
+## Screenshot
+
+![ScreenShot](.readme-assets/SHBGDTurretGame-2.png?raw=true)
+
+![ScreenShot](.readme-assets/SHBGDTurretGame-3.png?raw=true)
